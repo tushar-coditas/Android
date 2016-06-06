@@ -68,7 +68,7 @@ public class MainActivity extends Activity implements OnClickListener {
 		intent.putExtra(MediaStore.EXTRA_OUTPUT, photoPath); */
 		
 		// start camera activity
-	    startActivityForResult(intent, TAKE_PICTURE);
+	    //startActivityForResult(intent, TAKE_PICTURE);
 
 	}
 	
